@@ -24,4 +24,4 @@ To set up the project, follow the steps:
 User: namit@admin.com
 Pass: abc123!@#
 # Demo
-![Employee Management](./Ảnh%20giao%20diện/Ảnh%20quản%20lý%20người%20dùng.png)
+Click on Folder Ảnh giao diện to see what have been

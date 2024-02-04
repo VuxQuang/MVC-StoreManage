@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>Nếu bạn đang khám phá Hệ Thống Quản Lý Kho lần đầu tiên, bạn nên bắt đầu bằng cách đọc<a href="user_guide/">Hướng dẫn sử dụng</a>.</p>
 	</div>
 
-	<p class="footer">Trang được hiển thị trong <strong>{elapsed_time}</strong> giây. <?php echo  (ENVIRONMENT === 'development') ?  'Hệ Thống Quản Lý Kho Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
+	<p class="footer">Trang được hiển thị trong <strong>{elapsed_time}</strong> giây. <?php echo  (ENVIRONMENT === 'development') ?  'Hệ Thống Quản Lý Kho NamIT Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 </div>
 
 </body>

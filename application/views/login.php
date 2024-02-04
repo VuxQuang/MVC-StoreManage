@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Quản lý kho NamIT đăng nhập</title>
+    <title>Quản lý kho đăng nhập</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->

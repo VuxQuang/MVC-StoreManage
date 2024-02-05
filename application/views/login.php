@@ -1,3 +1,4 @@
+Login
 <!DOCTYPE html>
 <html lang="en">
 
@@ -36,7 +37,7 @@
                 <form class="login100-form validate-form" action="<?php echo base_url('auth/login') ?>" method="post">
                     <Center>
                         <img src="<?php echo base_url('assets/image/avatar.svg') ?>" width="80" height="80"><br><br>
-                        <b>Hệ Thống Quản Lý Kho NamIT</b><br><br>
+                        <b>Hệ Thống Quản Lý Kho </b><br><br>
                     </Center>
 
                     <div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz"

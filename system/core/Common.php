@@ -1,3 +1,4 @@
+<-- Core -->
 <?php
 /**
  * CodeIgniter

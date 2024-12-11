@@ -20,8 +20,5 @@ To set up the project, follow the steps:
    - Step 1: Open folder QuanLyKho => Go to application => Go to config => Open file config.php
    - Step 2: Change the URL http://127.0.0.1:8000 to http://localhost/QuanLyKho
 7. **Open the browser and type http://localhost/QuanLyKho**
-# Demo Account 
-User: namit@admin.com
-Pass: abc123!@#
 # Demo
 Click on Folder Ảnh giao diện to see what have been
